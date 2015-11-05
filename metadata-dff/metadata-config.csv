@@ -1,0 +1,2 @@
+schema,table-Name,unique-keys,ignore-columns,query
+SCHEMA_NAME,EMPLOYEE,EMPLOYEE_CODE,CREATE_TIME|LAST_UPDATE_TIME|DELETE_TIME,"select * from SCHEMA_NAME.TABLE_NAME"
